@@ -1,0 +1,13 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" fill="#F0F8FF"/>
+  <circle cx="200" cy="200" r="60" fill="#FFDBAC"/>
+  <circle cx="400" cy="200" r="60" fill="#FFDBAC"/>
+  <circle cx="600" cy="200" r="60" fill="#FFDBAC"/>
+  <text x="400" y="400" font-family="Arial, sans-serif" font-size="24" fill="#333" text-anchor="middle">Our Team</text>
+</svg>
+
+
+
+
+
+

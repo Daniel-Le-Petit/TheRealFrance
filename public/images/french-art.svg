@@ -1,0 +1,14 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" fill="#FFFACD"/>
+  <rect x="200" y="100" width="400" height="300" fill="#F5DEB3" stroke="#8B4513" stroke-width="3"/>
+  <circle cx="350" cy="200" r="40" fill="#FF6347"/>
+  <circle cx="450" cy="200" r="40" fill="#4169E1"/>
+  <circle cx="400" cy="280" r="40" fill="#32CD32"/>
+  <text x="400" y="450" font-family="Arial, sans-serif" font-size="24" fill="#333" text-anchor="middle">French Art</text>
+</svg>
+
+
+
+
+
+

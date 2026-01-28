@@ -1,0 +1,81 @@
+.his-upcoming-features {
+  margin-bottom: 3rem;
+}
+
+.his-upcoming-card {
+  background: rgba(26, 31, 58, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 1.5rem;
+  backdrop-filter: blur(10px);
+}
+
+.his-upcoming-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.his-upcoming-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.his-upcoming-title svg {
+  width: 20px;
+  height: 20px;
+  color: #7c3aed;
+}
+
+.his-upcoming-description {
+  font-size: 0.95rem;
+  color: #b0b0b0;
+  line-height: 1.6;
+  margin: 0 0 1.5rem 0;
+}
+
+.his-progress-section {
+  margin-top: 1.5rem;
+}
+
+.his-progress-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+.his-progress-label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #a0a0a0;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.his-progress-percentage {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #7c3aed;
+}
+
+.his-progress-bar {
+  width: 100%;
+  height: 8px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.his-progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #7c3aed 0%, #8b4ff0 100%);
+  border-radius: 4px;
+  transition: width 0.3s ease;
+}
+

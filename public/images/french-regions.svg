@@ -1,0 +1,14 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" fill="#F0FFF0"/>
+  <path d="M100,200 Q200,100 300,200 T500,200" stroke="#32CD32" stroke-width="3" fill="none"/>
+  <circle cx="200" cy="150" r="30" fill="#FF6347"/>
+  <circle cx="300" cy="200" r="30" fill="#4169E1"/>
+  <circle cx="400" cy="180" r="30" fill="#FFD700"/>
+  <text x="300" y="350" font-family="Arial, sans-serif" font-size="18" fill="#333" text-anchor="middle">French Regions</text>
+</svg>
+
+
+
+
+
+

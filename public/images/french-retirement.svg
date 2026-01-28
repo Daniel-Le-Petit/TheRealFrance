@@ -1,0 +1,18 @@
+<svg width="1200" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="retirement" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#87CEEB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4682B4;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#retirement)"/>
+  <circle cx="400" cy="250" r="80" fill="#FFD700"/>
+  <path d="M400,170 L420,230 L480,230 L430,270 L450,330 L400,290 L350,330 L370,270 L320,230 L380,230 Z" fill="#FF6347"/>
+  <text x="600" y="450" font-family="Arial, sans-serif" font-size="36" fill="#333" text-anchor="middle">French Retirement</text>
+</svg>
+
+
+
+
+
+

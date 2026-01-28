@@ -1,0 +1,13 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" fill="#F0FFF0"/>
+  <rect x="200" y="100" width="400" height="300" fill="#E0E0E0" stroke="#333" stroke-width="2"/>
+  <path d="M250,200 Q400,150 550,200" stroke="#4169E1" stroke-width="3" fill="none"/>
+  <circle cx="400" cy="250" r="20" fill="#FF6347"/>
+  <text x="400" y="450" font-family="Arial, sans-serif" font-size="24" fill="#333" text-anchor="middle">Contact Location</text>
+</svg>
+
+
+
+
+
+

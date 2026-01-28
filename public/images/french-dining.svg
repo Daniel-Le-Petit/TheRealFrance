@@ -1,0 +1,13 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" fill="#FFF8DC"/>
+  <rect x="200" y="100" width="200" height="200" rx="5" fill="#8B4513"/>
+  <circle cx="300" cy="200" r="60" fill="#FFD700"/>
+  <rect x="250" y="300" width="100" height="60" fill="#654321"/>
+  <text x="300" y="380" font-family="Arial, sans-serif" font-size="20" fill="#333" text-anchor="middle">French Dining</text>
+</svg>
+
+
+
+
+
+

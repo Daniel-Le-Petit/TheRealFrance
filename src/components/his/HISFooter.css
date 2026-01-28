@@ -1,0 +1,124 @@
+.his-footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr auto;
+  gap: 3rem;
+  padding: 2rem 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  align-items: start;
+}
+
+.his-footer-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.his-footer-title {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #a0a0a0;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin: 0;
+}
+
+.his-footer-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.his-footer-badge {
+  padding: 0.5rem 1rem;
+  background: rgba(26, 31, 58, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #b0b0b0;
+  transition: all 0.3s ease;
+}
+
+.his-footer-badge-active {
+  background: rgba(124, 58, 237, 0.2);
+  border-color: rgba(124, 58, 237, 0.5);
+  color: #8b4ff0;
+}
+
+.his-footer-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.his-footer-list li {
+  font-size: 0.9rem;
+  color: #b0b0b0;
+  padding-left: 1.5rem;
+  position: relative;
+  line-height: 1.6;
+}
+
+.his-footer-list li::before {
+  content: '•';
+  position: absolute;
+  left: 0;
+  color: #7c3aed;
+  font-weight: bold;
+}
+
+.his-footer-actions {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.his-footer-icon-btn {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(26, 31, 58, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  color: #a0a0a0;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.his-footer-icon-btn:hover {
+  background: rgba(26, 31, 58, 0.8);
+  border-color: rgba(124, 58, 237, 0.5);
+  color: #8b4ff0;
+}
+
+.his-footer-icon-btn svg {
+  width: 20px;
+  height: 20px;
+}
+
+@media (max-width: 1024px) {
+  .his-footer {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  
+  .his-footer-actions {
+    justify-content: flex-start;
+  }
+}
+
+@media (max-width: 768px) {
+  .his-footer {
+    padding: 1.5rem 0;
+  }
+  
+  .his-footer-badges {
+    flex-direction: column;
+  }
+}
+

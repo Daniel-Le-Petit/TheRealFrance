@@ -1,0 +1,11 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" fill="#FFE4E1"/>
+  <circle cx="300" cy="200" r="80" fill="#FFD700" stroke="#FF6347" stroke-width="5"/>
+  <text x="300" y="350" font-family="Arial, sans-serif" font-size="20" fill="#333" text-anchor="middle">French Traditions</text>
+</svg>
+
+
+
+
+
+

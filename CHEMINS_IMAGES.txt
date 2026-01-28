@@ -1,0 +1,92 @@
+================================================================================
+LISTE DES CHEMINS COMPLETS DES IMAGES DU SITE THERALFRANCE
+================================================================================
+
+DOSSIER PRINCIPAL DES IMAGES LOCALES:
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\
+
+================================================================================
+IMAGES SVG (41 fichiers)
+================================================================================
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\about-france.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\about-team.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\contact-france.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\contact-map.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\cost-of-living.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\france-landscape.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-art.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-baguette.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-cafe.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-countryside.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-culture.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-diet.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-dining.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-greeting.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-groceries.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-habits.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-health.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-healthcare.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-housing.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-language.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-lifestyle.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-market.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-paradox.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-pension.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-regions.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-rent.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-retirement-life.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-retirement.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-seniors.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-small-towns.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-traditions.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-transport.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-utilities.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-village.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-wine-cheese.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\french-work-life.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\hero-france.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\living-in-france.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\logo.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\paris-city.svg
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\paris-vs-france.svg
+
+================================================================================
+IMAGES PNG (1 fichier)
+================================================================================
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\logo.png
+
+================================================================================
+IMAGES JFIF - CARROUSEL (7 fichiers)
+================================================================================
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\ardeche.jfif
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\Bretagne.jfif
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\Bretagne2.jfif
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\corse.jfif
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\femme_montagne.jfif
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\Phare.jfif
+C:\Users\AIFinesHerbes\AIFB\TheRealFrance\public\images\plage.jfif
+
+================================================================================
+TOTAL: 49 IMAGES LOCALES
+================================================================================
+- 41 fichiers SVG
+- 1 fichier PNG
+- 7 fichiers JFIF
+
+================================================================================
+IMAGES EXTERNES (Unsplash)
+================================================================================
+Les images externes sont chargées depuis Unsplash via des URLs.
+Voir le fichier LISTE_IMAGES_SITE.md pour la liste complète des URLs.
+
+Fichiers de configuration contenant les URLs:
+- C:\Users\AIFinesHerbes\AIFB\TheRealFrance\src\config\images.js
+- C:\Users\AIFinesHerbes\AIFB\TheRealFrance\src\data\cities.js
+- C:\Users\AIFinesHerbes\AIFB\TheRealFrance\src\data\attractions.js
+- C:\Users\AIFinesHerbes\AIFB\TheRealFrance\src\components\Hero.jsx
+
+================================================================================
+
+
+
+
