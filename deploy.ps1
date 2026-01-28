@@ -35,10 +35,8 @@ try {
     # Crée la branche main si nécessaire
     git branch -M main 2>$null | Out-File $logFile -Append
 
-    # Ajouter tous les fichiers
+    # Stage tous les fichiers avant le pull
     git add . | Out-File $logFile -Append
-
-    # Commit initial si aucun commit n'existe
     if (-not (git rev-parse HEAD 2>$null)) {
         git commit -m "$message" | Out-File $logFile -Append
     }
@@ -69,6 +67,12 @@ try {
 
     "`n== Pull / fusion des dernières modifs sur GitHub ==" | Out-File $logFile -Append
     git pull origin main --allow-unrelated-histories --rebase | Out-File $logFile -Append
+
+    # Stage et commit après fusion si nécessaire
+    git add . | Out-File $logFile -Append
+    if (-not (git diff --cached --quiet)) {
+        git commit -m "Merge / commit automatique après pull" | Out-File $logFile -Append
+    }
 
     "`n== Push vers GitHub ==" | Out-File $logFile -Append
     git push -u origin main | Out-File $logFile -Append
